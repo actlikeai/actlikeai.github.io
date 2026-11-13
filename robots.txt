@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://actlikeai.github.io/sitemap.xml
